@@ -4,8 +4,8 @@
     --cor-fundo: #01080E;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #0b187a;
-    --cor-destaque: #028dff;
-    --cor-texto: #D7F9FF;
+    --cor-destaque:  rgb(241, 241, 53);
+    --cor-texto: #ffffff;
 }
   
 body {
